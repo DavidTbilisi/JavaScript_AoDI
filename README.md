@@ -15,8 +15,8 @@
   - [Number](https://youtu.be/emsQNeIe5ew?si=X7gzWdhJEDTyh1B4),
   - [Boolean](https://youtu.be/PkRnbBXcdTw?si=T2opUcqre8MrxxYz),
   - [Array](https://youtu.be/Ri9ljAqm-is?si=Osb6IEPooG06yxWW)
-- If else statement [Easy](https://youtu.be/V4eH7B9OcHk?si=9PUrdCOaSSm3s2pT&t=60)
-- Switch case
+- If else statement [Easy](https://youtu.be/V4eH7B9OcHk?si=9PUrdCOaSSm3s2pT&t=60), [Intro](https://youtu.be/HQ3dCWjfRZ4?si=4pa0AniFWSkf6FWl), [Intro 1](https://youtu.be/m2Ux2PnJe6E?si=14DVaZg5aRY07PiK)
+- Switch case [Easy](https://youtu.be/frSpkF-sPYk?si=VTu1cNtxZvH7NflA)
 - Ternary operator
 - Use strict
 
@@ -24,7 +24,7 @@
 - Array
 - Objects. Dot vs bracket notation
 - Type conversion
-- Loop [Easy](https://youtu.be/r3Ti5Xp9W8A?si=aS7nWRNfPDYlClpV)
+- Loop [Easy](https://youtu.be/r3Ti5Xp9W8A?si=aS7nWRNfPDYlClpV), [Intro 1](https://youtu.be/mgooqyWMTxk?si=uw--Z_yMa39UaaAv)
 - Break and continue
 - Comparison and logical operators
 - Object and loop
