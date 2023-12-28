@@ -7,10 +7,15 @@
 
 ## Workshop 1
 - ჯავასჯრიპტის განხილვა
-- ცვლადები
+- ცვლადები [Easy](https://youtu.be/xjZDZ1TJe4o?si=UF5eVt7B1X-iZa0V)
 - Let & const
 - Data types
-- If else statement
+  - [Integer](https://youtu.be/emsQNeIe5ew?si=ij_YfqpKx3y6Kf0d),
+  - [String](https://youtu.be/h2Qf9vIfJnY?si=PTOoxZqTvh2Dguhr),
+  - [Number](https://youtu.be/emsQNeIe5ew?si=X7gzWdhJEDTyh1B4),
+  - [Boolean](https://youtu.be/PkRnbBXcdTw?si=T2opUcqre8MrxxYz),
+  - [Array](https://youtu.be/Ri9ljAqm-is?si=Osb6IEPooG06yxWW)
+- If else statement [Easy](https://youtu.be/V4eH7B9OcHk?si=9PUrdCOaSSm3s2pT&t=60)
 - Switch case
 - Ternary operator
 - Use strict
@@ -19,13 +24,13 @@
 - Array
 - Objects. Dot vs bracket notation
 - Type conversion
-- Loop
+- Loop [Easy](https://youtu.be/r3Ti5Xp9W8A?si=aS7nWRNfPDYlClpV)
 - Break and continue
 - Comparison and logical operators
 - Object and loop
 
 ## Workshop 3
-- რა არის ფუნქცია
+- რა არის ფუნქცია [Easy](https://youtu.be/3JIZ40yuZL0?si=B5vcy33TeIM6gvwY)
 - ფუნქციის შექმნა და გამოძახება
 - Function Declaration vs Expression
 - Arrow Function
@@ -81,11 +86,11 @@
 - Regex-ის გატესტვა matching
 
 ## Workshop 12
-- Javascript oop
+- Javascript oop [Easy](https://youtu.be/X3cFiJnxUBY?si=RBd1ZkqAdOCXbJlk), [Intro](https://youtu.be/Wok4Xw_5cyY?si=JgcLQ3tH-ZZDm3Bj)
 - Constructor function
-- Prototype
+- Prototype [Easy](https://youtu.be/tE2e9SXLyQs?si=_Ab0e_23DFo_tA0m)
 - მემკვიდრეობითობა
-- Classe- ები
+- Classe- ები [Easy](https://youtu.be/IHyxevOMosw?si=6pRBk4FeVkF1ezJb)
 - Setters & getters
 - Instanceof ოპერატორი
 
