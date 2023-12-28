@@ -22,7 +22,7 @@
 
 ## Workshop 2
 - Array
-- Objects. Dot vs bracket notation
+- Objects. Dot vs bracket notation [Easy](https://youtu.be/napDjGFjHR0?si=zumZzM3p7kdPmpeZ)
 - Type conversion
 - Loop
   [Easy](https://youtu.be/r3Ti5Xp9W8A?si=aS7nWRNfPDYlClpV)
