@@ -17,8 +17,8 @@
   - [Array](https://youtu.be/Ri9ljAqm-is?si=Osb6IEPooG06yxWW)
 - If else statement [Easy](https://youtu.be/V4eH7B9OcHk?si=9PUrdCOaSSm3s2pT&t=60), [Intro](https://youtu.be/HQ3dCWjfRZ4?si=4pa0AniFWSkf6FWl), [Intro 1](https://youtu.be/m2Ux2PnJe6E?si=14DVaZg5aRY07PiK)
 - Switch case [Easy](https://youtu.be/frSpkF-sPYk?si=VTu1cNtxZvH7NflA)
-- Ternary operator
-- Use strict
+- Ternary operator [Detailed](https://youtu.be/s4sB1hm73tw?si=yLWnzbgjWh4kY31R)
+- Use strict [Detailed](https://youtu.be/uqUYNqZx0qY?si=n_28jfwQJ_BWtkFU)
 
 ## Workshop 2
 - Array
