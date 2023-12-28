@@ -24,7 +24,10 @@
 - Array
 - Objects. Dot vs bracket notation
 - Type conversion
-- Loop [Easy](https://youtu.be/r3Ti5Xp9W8A?si=aS7nWRNfPDYlClpV), [Intro 1](https://youtu.be/mgooqyWMTxk?si=uw--Z_yMa39UaaAv)
+- Loop
+  [Easy](https://youtu.be/r3Ti5Xp9W8A?si=aS7nWRNfPDYlClpV)
+  [Code.org](https://youtu.be/mgooqyWMTxk?si=uw--Z_yMa39UaaAv)
+  [Intro](https://youtu.be/v-K-4KuA8mQ?si=BzLe1Z9i5gqz5OlD)
 - Break and continue
 - Comparison and logical operators
 - Object and loop
