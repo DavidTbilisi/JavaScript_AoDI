@@ -6,9 +6,9 @@
 - [კურსის აღწერა](https://digitaledu.ge/javascript-kursi/)
 
 ## Workshop 1
-- ჯავასჯრიპტის განხილვა
+- ჯავასჯრიპტის განხილვა [Easy](https://youtu.be/lkIFF4maKMU?si=7v5hMI_x0tJxPmR0), [History](https://youtu.be/qKJP93dWn40?si=0v-vXXtIs3EeSsPF)
 - ცვლადები [Easy](https://youtu.be/xjZDZ1TJe4o?si=UF5eVt7B1X-iZa0V)
-- Let & const
+- Let & const [Detailed](https://youtu.be/9WIJQDvt4Us?si=mf6MR24RW82b1YcA)
 - Data types
   - [Integer](https://youtu.be/emsQNeIe5ew?si=ij_YfqpKx3y6Kf0d),
   - [String](https://youtu.be/h2Qf9vIfJnY?si=PTOoxZqTvh2Dguhr),
