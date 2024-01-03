@@ -51,17 +51,19 @@
 დამატებითი მასალა
 - [More About Functions](https://youtu.be/UPeFK1uFJCE?si=0WOyeqQGuOTVstRW)
 ## Workshop 4
-- Array methods [Detailed](https://youtu.be/OMoxLUxW7Wc?si=uQThTQ9_Z2KgatFI)
+- Array methods 
+[Detailed](https://youtu.be/OMoxLUxW7Wc?si=uQThTQ9_Z2KgatFI)
+[Detailed 2](https://youtu.be/cDCzz8vJf3Y?si=7V2PZ-wiZCtD3FcR)
 - String manipulation
   
 ## Workshop 5
-- Document object model
-- ჯავასკრიპტის ფაილების დამატება საიტზე
-- Defer and async ატრიბუტები
-- ელემენტების შექმნა, ატრიბუტების მინიჭება js- დან
-- Query selector- ები
-- Events & events handlers
-- PreventDefault()
+- Document object model [Easy](https://www.youtube.com/watch?v=NO5kUNxGIu0) [Detailed](https://youtu.be/5fb2aPlgoys?si=gp3PaZaAbaVz-ECj)
+- ჯავასკრიპტის ფაილების დამატება საიტზე [Detailed](https://youtu.be/JsBcohorja8?si=j1ZOf6vfVrEEtZLJ)
+- Defer and async ატრიბუტები [Detailed](https://youtu.be/7dwyMSyd_00?si=c7hkCW-BU3cuHkeL)
+- ელემენტების შექმნა, ატრიბუტების მინიჭება js-დან [Detailed](https://youtu.be/XVNLsTJHwqE?si=wXeA55fyqQs0YwuS)
+- Query selector-ები [Detailed](https://youtu.be/3oOKAJTD2F8?si=MHZnUkSax0smZnz1)
+- Events & events handlers [Detailed](https://youtu.be/XF1_MlZ5l6M?si=1mK1t9WLAeCKvnVf)
+- PreventDefault() [Detailed](https://youtu.be/3SNyh57XSIA?si=l3r-fDyDk6x5CRv1)
 - Burger menu ფუნქციონალის აწყობა ანიმაციით
 
 ## Workshop 6
