@@ -67,8 +67,8 @@
 - Burger menu ფუნქციონალის აწყობა ანიმაციით
 
 ## Workshop 6
-- This keyword
-- Call, apply და bind მეთოდები
+- This keyword [Easy](https://youtu.be/YOlr79NaAtQ?si=z3TkJtqOaK80BfJ6) [Detailed](https://youtu.be/NV9sHLX-jZU?si=Pbr6ucx_svPUxgQX)
+- Call, apply და bind მეთოდები [Detailed](https://youtu.be/c0mLRpw-9rI?si=yloE4Yjn0wD02KQg)
 - Higher order ფუნქციები [Callbacks Detailed](https://youtu.be/pTbSfCT42_M?si=p6HMJS7IdPHX88zb), 
 - Arrow Function More Details
 - Hoisting [Detailed](https://youtu.be/j-9_15QBW2s?si=JVbuH_BCeI4mm9bK), [Detailed 2](https://youtu.be/j-9_15QBW2s?si=JVbuH_BCeI4mm9bK)
@@ -84,8 +84,8 @@
 - Async await
 
 ## Workshop 8
+- Xml http requist [Detailed](https://youtu.be/f7X1dtilHp0?si=tbiPGPJ9UV7j_uQ0)
 - Ajax
-- Xml http requist
 - Fetch
 - Json ობიექტი და მეთოდები
   
