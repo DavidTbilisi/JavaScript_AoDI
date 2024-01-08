@@ -54,7 +54,7 @@
 - Array methods 
 [Detailed](https://youtu.be/OMoxLUxW7Wc?si=uQThTQ9_Z2KgatFI)
 [Detailed 2](https://youtu.be/cDCzz8vJf3Y?si=7V2PZ-wiZCtD3FcR)
-- String manipulation
+- String manipulation [Detailed](https://youtu.be/9Q8BAZffbz8?si=vuIW49pGRywNObu8)
   
 ## Workshop 5
 - Document object model [Easy](https://www.youtube.com/watch?v=NO5kUNxGIu0) [Detailed](https://youtu.be/5fb2aPlgoys?si=gp3PaZaAbaVz-ECj)
