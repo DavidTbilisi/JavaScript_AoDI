@@ -80,7 +80,7 @@
 [Detailed 3](https://youtu.be/zDlg64fsQow?si=BTK3N_EZUKFMzF7a)
 - Promises [Easy](https://youtu.be/RvYYCGs45L4?si=ZGz_qKaBGrAhGecS)
 - Settimeout
-- Callbacks & callback hell
+- Callbacks & callback hell [Detailed](https://youtu.be/_FJvnsIu1co?si=uYCfaM3EFBIV1Zy5)
 - Async await
 
 ## Workshop 8
