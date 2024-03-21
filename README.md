@@ -98,7 +98,7 @@
   
 ## Workshop 11
 - ფორმის ვალიდაცია
-- Regex- ის შექმნა
+- Regex-ის შექმნა [Game](https://regexlearn.com/learn/regex101), [Easy](https://youtu.be/rhzKDrUiJVk?si=CQ198XB5o9e-A1pN)
 - Regex-ის გატესტვა matching
 
 ## Workshop 12
