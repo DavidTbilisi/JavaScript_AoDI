@@ -99,7 +99,7 @@
 ## Workshop 11
 - ფორმის ვალიდაცია
 - Regex-ის შექმნა [Game](https://regexlearn.com/learn/regex101), [Easy](https://youtu.be/rhzKDrUiJVk?si=CQ198XB5o9e-A1pN)
-- Regex-ის გატესტვა matching
+- Regex-ის გატესტვა matching [Course](https://www.youtube.com/watch?v=uaepGvA-iK4&list=PL4cUxeGkcC9g6m_6Sld9Q4jzqdqHd2HiD)
 
 ## Workshop 12
 - Javascript oop [Easy](https://youtu.be/X3cFiJnxUBY?si=RBd1ZkqAdOCXbJlk), [Intro](https://youtu.be/Wok4Xw_5cyY?si=JgcLQ3tH-ZZDm3Bj)
