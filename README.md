@@ -78,7 +78,7 @@
 [Detailed](https://youtu.be/8aGhZQkoFbQ?si=Pyc7C0IaaLNmsZge),
 [Detailed 2](https://youtu.be/cCOL7MC4Pl0?si=AETYMby8MSYXFi2b),
 [Detailed 3](https://youtu.be/zDlg64fsQow?si=BTK3N_EZUKFMzF7a)
-- Promises [Easy](https://youtu.be/RvYYCGs45L4?si=ZGz_qKaBGrAhGecS)
+- Promises [Easy](https://youtu.be/RvYYCGs45L4?si=ZGz_qKaBGrAhGecS), [Detailed](https://youtu.be/Xs1EMmBLpn4?si=cQ91f90nUd1e8wE2)
 - Settimeout
 - Callbacks & callback hell [Detailed](https://youtu.be/_FJvnsIu1co?si=uYCfaM3EFBIV1Zy5) [Hell](https://youtu.be/NOlOw03qBfw?si=2FkuzAEBw52UyHou)
 - Async await
