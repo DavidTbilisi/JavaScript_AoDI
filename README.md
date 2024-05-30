@@ -3,6 +3,8 @@
 ## სასარგებლო ბმულები 
 - [javascript.info](https://javascript.info/)
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [Eloquent JavaScript](https://eloquentjavascript.net/index.html)
+- [You Dont Know JS](https://github.com/getify/You-Dont-Know-JS/tree/2nd-ed)
 - [კურსის აღწერა](https://digitaledu.ge/javascript-kursi/)
 - [Console.log()](https://youtu.be/L8CDt1J3DAw?si=yQeuQxu0MxTlXohG)
 
